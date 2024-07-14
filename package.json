@@ -5,7 +5,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon -r dotenv/config --experimental-json-modules  src/index.js"
+    "dev": "nodemon -r dotenv/config --experimental-json-modules  /home/vinayasree/Desktop/js-be/src/index.js"
   },
   "keywords": [
     "javascript",
@@ -21,6 +21,7 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "joi": "^17.13.3",
     "mongoose": "^8.3.4"
   }
 }
